@@ -8,8 +8,11 @@ The program asks the questions from the text file and you have to guess the ques
 3. If you want to make your own questions, just format the questions like this:
 <code>
 Q: What is 5 + 5?
+
 A: 10
 
+
 Q: What is 2 times 3?
+
 A: 6
 </code>
